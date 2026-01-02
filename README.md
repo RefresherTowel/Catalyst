@@ -2,7 +2,7 @@
 
 ![Catalyst icon](./catalyst_icon.png)
 
-*Modify stats without spaghetti code*
+*Make your stats work like magic*
 
 Catalyst is a flexible statistics and modifier engine for GameMaker.
 
